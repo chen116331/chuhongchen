@@ -51,4 +51,5 @@ try {
 	catch(A r) {
 		r.printStackTrace();//捕获并打印系统异常
   六、运行截图
-  输入生查询：
+  输入生查询：https://github.com/chen116331/chuhongchen/blob/master/%E7%94%9F.png
+  空字符查询：
