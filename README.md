@@ -52,4 +52,6 @@ try {
 		r.printStackTrace();//捕获并打印系统异常
   六、运行截图
   输入生查询：https://github.com/chen116331/chuhongchen/blob/master/%E7%94%9F.png
-  空字符查询：
+  空字符查询：https://github.com/chen116331/chuhongchen/blob/master/%E7%A9%BA%E5%AD%97%E7%AC%A6.png
+  七、编程感想
+  这次编程加深我熟练运用字符串String方法的技巧，复习了循环分隔句子的for方法，了解了查寻某个字并记录其出现次数的方法，掌握了当系统出现异常将其抛出的报错方法。加深了我对java编程的认识，增进了我对语言学习的兴趣。
